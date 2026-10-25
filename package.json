@@ -1,0 +1,26 @@
+{
+  "name": "media-buying-desk",
+  "version": "1.0.0",
+  "description": "Browser-based TV media buying analysis: channel, daypart, industry, programme and LMRB negotiation views. Data stays in the browser.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shehank98/Media-Buying-Analysis.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Shehank98/Media-Buying-Analysis/issues"
+  },
+  "homepage": "https://github.com/Shehank98/Media-Buying-Analysis#readme",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
